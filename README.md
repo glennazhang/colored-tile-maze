@@ -1,5 +1,5 @@
 # colored-tile-maze
-Small project for my AP Computer Science course in high school.
+Project for my AP Computer Science course in high school.
 Made a game based on a minigame found in the RPG game Undertale by Toby Fox.
 JAR file executes the game.
 
